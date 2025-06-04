@@ -1,2 +1,2 @@
-# MinhaAutoFarm
-MOD de farm para o servidor hypixel, automação de tarefas no minecraft
+# MinhaAutoFarm - automação de tarefas no minecraft
+MOD para farmar o garden no servidor hypixel, 
